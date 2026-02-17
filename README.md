@@ -1,4 +1,4 @@
-# ✨ Nissrine El Mniai ✨
+# ✨ Hello! I'm Nissrine El Mniai ✨
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="coding girl"/>
 
@@ -64,3 +64,113 @@
 ```diff
 + freeCodeCamp - Foundational C# with Microsoft
 + freeCodeCamp - Legacy JavaScript Algorithms and Data Structures
+
+---
+
+## 💼 **Professional Experience
+**
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="200"/>
+
+### 👩‍💻 **Stage d'Initiation**
+**🏢 La Société Régionale Multiservices l'Oriental SA** · *July 2025*
+
+*Collaborative project with a team of 2*
+
+#### 📋 **Fleet Management Desktop Application**
+
+**✨ Key Achievements:**
+- 🚗 **Automated** vehicle tracking system
+- 🔧 **Scheduled** preventive maintenance
+- 📊 **Generated** detailed analytical reports
+- 🤝 **Collaborated** effectively in a small team
+
+**🔧 Technologies used:**
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 🚀** Projects I've Built**
+
+| Project | Description | Team Size | Tech Stack |
+|---------|-------------|-----------|------------|
+| **RhVerse** | Mobile app for HR task management | 👥 4 | Android Studio, Java, XML, Firebase |
+| **MemoPharma** | Desktop medical management system | 👥 3 | JavaFX, Scene Builder, MySQL, MVC |
+| **TaskManager** | Web-based task management app | 👤 Solo | Symfony, Twig, Doctrine ORM, MySQL |
+
+---
+
+## 🌟 **Extracurricular Adventures**
+! President @ Club Altruisme, ENSAO (2023-2027)
+! Member @ Club gi ENSAO (2024-2027)
+! Participant @ 12th Edition of Oujda Science Festival (2024-2025)
+
+---
+
+## 💫 My Superpowers (Soft Skills)
+
+| | | |
+|---|---|---|
+| ⏰ Time Management | 📋 Discipline | 👑 Leadership |
+| 🤝 Team Spirit | ✅ Responsibility | 🎨 Creativity |
+
+---
+
+## 🌐 **Languages I Speak**
+
+- 🇲🇦 **Arabic:** Native
+- 🇫🇷 **French:** Fluent
+- 🇬🇧 **English:** Fluent
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NissrineElMniai&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NissrineElMniai&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissrineElMniai&layout=compact&theme=radical&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 📬** Let's Connect!**
+
+<p align="center">
+  <a href="mailto:nissrine.elmniai.23@ump.ac.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nissrine-el-mniai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/NissrineElMniai">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:+212690743261">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NissrineElMniai&color=ff69b4&style=flat-square&label=Profile+Visitors" />
+  <img src="https://img.shields.io/badge/Available%20for-Internship%20(July%202026)-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <i>✨ Open to collaboration and exciting opportunities! Let's build something amazing together ✨</i>
+</p>
+
+---
+
+<div align="center">
+  
+### 📍 Taourirt, Oriental, Morocco | 📅 Available from July 1st, 2026
+
+</div>
