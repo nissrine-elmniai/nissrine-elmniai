@@ -140,14 +140,14 @@ Taourirt, Oriental, Morocco (Open to relocation)
     - 📧 Email: nissrine.elmniai.23@ump.ac.ma 
   </p>
   <p>
-    - 💼 LinkedIn: [Nissrine EL MNIAI](www.linkedin.com/in/nissrine-el-mniai-0b3a28296)  
+  - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296/)  
   </p>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NissrineElMniai&color=ff69b4&style=flat-square&label=Profile+Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=nissrine-elmniai&color=ff69b4&style=flat-square&label=Profile+Visitors" />
   <img src="https://img.shields.io/badge/Available%20for-Internship%20(July%202026)-brightgreen?style=flat-square" />
 </p>
 
