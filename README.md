@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Nissrine EL MNIAI ✨
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFwc3ZldmtjZmxpcGx3MTNtN2hhajN6cXJiaHBkM2lnaWJ4YmE4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding girl"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkxaTJycnQ2b3kwNGs3MTRncWo3eWh2bnhkdnZ0dWk0cTJ0MTBuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="coding girl"/>
 
 🎓 **2nd Year Computer Engineering Student** at ENSA Oujda  
 💻 Passionate about **Full-Stack Development**, **Mobile Apps**, and **Artificial Intelligence**  
@@ -142,11 +142,8 @@ Taourirt, Oriental, Morocco (Open to relocation)
   <a href="https://linkedin.com/in/nissrine-el-mniai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/NissrineElMniai">
+  <a href="https://github.com/nissrine-elmniai">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="tel:+212690743261">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
