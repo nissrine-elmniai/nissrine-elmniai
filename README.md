@@ -1,78 +1,124 @@
-# 👋 Hi, I'm Nissrine EL MNIAI!
+# 👋 Hi, I'm NISSRINE EL MNIAI!
 
-- ❤️ Welcome to my GitHub Profile ❤️  
-  **[YOUR TITLE, e.g., Passionate Developer | Tech Enthusiast]**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
+🎓 **2nd Year Computer Engineering Student**  
+💼 **Actively seeking an internship (starting July 1st, 2026)**  
+📍 Taourirt, Oriental, Morocco (Open to relocation)
 
-## 🚀 About Me
-
-- 🐦 I'm continuously working on expanding my knowledge and building exciting projects  
-- 🏆 I'm always learning and exploring new technologies and best practices  
-- 💪 I love turning ideas into reality through code  
-- 📈 My goal is to create meaningful and impactful solutions  
-- 🔄 I believe in clean code, collaboration, and continuous improvement  
+[![Email](https://img.shields.io/badge/Email-nissrine.elmniai.23%40ump.ac.ma-red?style=flat-square&logo=gmail)](mailto:nissrine.elmniai.23@ump.ac.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nissrine%20EL%20MNIAI-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Nissrine%20EL%20MNIAI-black?style=flat-square&logo=github)](https://github.com/your-username)
+[![Phone](https://img.shields.io/badge/Phone-%2B212690743261-green?style=flat-square&logo=whatsapp)](tel:+212690743261)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 ABOUT ME
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+> *"I believe in clean code, collaboration, and continuous improvement"*
 
----
+I am currently looking for an **internship in Full-Stack development**, with a particular interest in:
+- 🌐 Web Development
+- 📱 Mobile Development
+- 🤖 Artificial Intelligence
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+📅 **Availability:** From July 1st, 2026, for 2 months
 
 ---
 
-## 🔭 Current Focus
+## 🎓 EDUCATION
 
-- 🌱 I'm currently learning **[what you're learning, e.g., TypeScript, Next.js]**
-- 👯 I'm looking to collaborate on **[type of projects, e.g., open source, web apps]**
-- 💬 Ask me about **[your expertise, e.g., web development, Python]**
-- 📫 How to reach me: **[your email or preferred contact method]**
+```diff
++ Computer Engineering Degree | 2024 – 2027
+  National School of Applied Sciences, Oujda
 
----
++ Preparatory Classes | 2022 – 2024
+  National School of Applied Sciences, Oujda
 
-## 📝 Latest Blog Posts
++ Baccalaureate in Physical Sciences | 2021 – 2022
+  El Fath High School, Taourirt, Oriental
+💻 TECHNOLOGIES & TOOLS
+Programming Languages
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-*Coming soon...*
+Frameworks
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white
+https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white
 
----
+Databases
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=firebase&logoColor=white
 
-## 🤝 Connect with Me
+Mobile Development
+https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
+https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+Tools & Methodologies
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/UML-FF6A00?style=for-the-badge&logo=uml&logoColor=white
+https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white
+https://img.shields.io/badge/MVC-007396?style=for-the-badge&logo=java&logoColor=white
 
----
+🏆 CERTIFICATIONS
+freeCodeCamp - Foundational C# with Microsoft
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+freeCodeCamp - Legacy JavaScript Algorithms and Data Structures
 
----
+💼 PROFESSIONAL EXPERIENCE
+Internship | La Société Régionale Multiservices l'Oriental SA
+July 2025
 
-## ⚡ Fun Facts
+Topic: Design and development of a desktop application for fleet management
 
-- 🔥 I'm passionate about **[your passion]**
-- 🎮 When I'm not coding, I enjoy **[your hobbies]**
-- 🌍 I speak **[languages you speak]**
-- 🎯 Goal for this year: **[your goal]**
+👥 Team project with 2 people
 
----
+🔧 Technologies: Microsoft Access, VBA
 
-⭐️ From [YOUR_NAME](https://github.com/YOUR_USERNAME)
+✅ Achievements:
+
+Automated vehicle tracking system
+
+Maintenance scheduling implementation
+
+Analytical report generation
+
+📱 ACADEMIC PROJECTS
+[RhVerse] - Mobile Application
+Team of 4 people
+
+📱 Mobile application for HR task management
+
+🛠️ Technologies: Android Studio, XML, Java, Firebase
+
+🤝 Collaboration: Git, GitHub
+
+[MemoPharma] - Desktop Application
+Team of 3 people
+
+💊 Desktop application for medical management
+
+🛠️ Technologies: JavaFX, Scene Builder, MySQL
+
+🏗️ Architecture: MVC
+
+[TaskManager] - Web Application
+Individual project
+
+✅ Web application for task management
+
+🛠️ Technologies: Symfony, Twig, Doctrine ORM, MySQL
+🌟 EXTRACURRICULAR ACTIVITIES
+! President of Altruism Club, ENSAO | 2023 – 2027
+! Member of Computer Engineering Club, ENSAO | 2024 – 2027
+! Participant - 12th Edition of Oujda Science Festival | 2024 – 2025
