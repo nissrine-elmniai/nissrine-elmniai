@@ -1,113 +1,109 @@
-# ✨ Hello! I'm Nissrine El Mniai ✨
+# ✨ Hi, I'm Nissrine EL MNIAI ✨
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="coding girl"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFwc3ZldmtjZmxpcGx3MTNtN2hhajN6cXJiaHBkM2lnaWJ4YmE4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding girl"/>
 
-> *"Turning coffee into code and ideas into reality"* ☕💻
+🎓 **2nd Year Computer Engineering Student** at ENSA Oujda  
+💻 Passionate about **Full-Stack Development**, **Mobile Apps**, and **Artificial Intelligence**  
+🌸 Open to **internship opportunities** starting **July 1st, 2026** (2 months)
 
-🎓 **2nd Year Computer Engineering Student** @ ENSA Oujda  
-💡 Passionate about **Full-Stack Development**, **Mobile Apps**, and **AI**  
-🌸 Open to **internship opportunities** starting July 2026 (2 months)
-
----
-
-## 🌼 About Me
-
-- 🐞 I love solving problems and building things that make a difference
-- 🌱 Currently diving deeper into **Spring Boot**, **React Native**, and **Cloud technologies**
-- 🎯 Goal: Create meaningful and impactful solutions through clean code
-- ✨ Fun fact: I believe in the magic of teamwork and continuous learning
-- 📍 Based in Aourirt, Oriental, Morocco (Open to relocation)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Looking+for+an+internship;Do+you+have+an+opportunity%3F;Available+from+July+2026;Let's+connect!)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ My Tech Toolbox
+## 📍 **Location**
+Taourirt, Oriental, Morocco (Open to relocation)
+
+---
+
+## 🛠️ **Technologies & Tools**
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![JEE](https://img.shields.io/badge/JEE-007396?style=flat-square&logo=java&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### 🛠️ Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📋 Methodologies
-![UML](https://img.shields.io/badge/UML-FF6A00?style=flat-square&logo=uml&logoColor=white)
-![Merise](https://img.shields.io/badge/Merise-2C5F2D?style=flat-square&logo=diagrams&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-007396?style=flat-square&logo=java&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FF6A00?style=for-the-badge&logo=uml&logoColor=white)
+![Merise](https://img.shields.io/badge/Merise-2C5F2D?style=for-the-badge&logo=diagrams&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-## 🏆 Certifications
+## 🏆 **Certifications**
 
-```diff
-+ freeCodeCamp - Foundational C# with Microsoft
-+ freeCodeCamp - Legacy JavaScript Algorithms and Data Structures
-
----
-
-## 💼 **Professional Experience
-**
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0VIp7iq/giphy.gif" width="200"/>
-
-### 👩‍💻 **Stage d'Initiation**
-**🏢 La Société Régionale Multiservices l'Oriental SA** · *July 2025*
-
-*Collaborative project with a team of 2*
-
-#### 📋 **Fleet Management Desktop Application**
-
-**✨ Key Achievements:**
-- 🚗 **Automated** vehicle tracking system
-- 🔧 **Scheduled** preventive maintenance
-- 📊 **Generated** detailed analytical reports
-- 🤝 **Collaborated** effectively in a small team
-
-**🔧 Technologies used:**
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- 🏅 **freeCodeCamp** - Foundational C# with Microsoft
+- 🏅 **freeCodeCamp** - Legacy JavaScript Algorithms and Data Structures
 
 ---
 
-## 🚀** Projects I've Built**
+## 💼 **Professional Experience**
 
-| Project | Description | Team Size | Tech Stack |
-|---------|-------------|-----------|------------|
-| **RhVerse** | Mobile app for HR task management | 👥 4 | Android Studio, Java, XML, Firebase |
-| **MemoPharma** | Desktop medical management system | 👥 3 | JavaFX, Scene Builder, MySQL, MVC |
-| **TaskManager** | Web-based task management app | 👤 Solo | Symfony, Twig, Doctrine ORM, MySQL |
+### 📌 Stage d'Initiation | La Société Régionale Multiservices l'Oriental SA
+*July 2025 | Team project (2 people)*
 
----
-
-## 🌟 **Extracurricular Adventures**
-! President @ Club Altruisme, ENSAO (2023-2027)
-! Member @ Club gi ENSAO (2024-2027)
-! Participant @ 12th Edition of Oujda Science Festival (2024-2025)
+**Fleet Management Desktop Application**
+- 🚗 Automated vehicle tracking system
+- 🔧 Implemented preventive maintenance scheduling
+- 📊 Generated analytical reports
+- 🛠️ **Tech stack:** Microsoft Access, VBA
 
 ---
 
-## 💫 My Superpowers (Soft Skills)
+## 🚀 **Academic Projects**
+
+### 📱 RhVerse - Mobile Application
+*Team of 4 people*
+- 📋 Mobile app for HR task management
+- 🛠️ **Technologies:** Android Studio, Java, XML, Firebase
+- 🤝 **Collaboration:** Git, GitHub
+
+### 💊 MemoPharma - Desktop Application
+*Team of 3 people*
+- 🏥 Desktop application for medical management
+- 🛠️ **Technologies:** JavaFX, Scene Builder, MySQL
+- 🏗️ **Architecture:** MVC
+
+### ✅ TaskManager - Web Application
+*Individual project*
+- 📝 Web application for task management
+- 🛠️ **Technologies:** Symfony, Twig, Doctrine ORM, MySQL
+
+---
+
+## 🌟 **Extracurricular Activities**
+
+- 👑 **President** @ Club Altruisme, ENSAO (2023-2027)
+- 👥 **Member** @ Club gi ENSAO (2024-2027)
+- 🎪 **Participant** @ 12th Edition of Oujda Science Festival (2024-2025)
+
+---
+
+## 💫 **Soft Skills**
 
 | | | |
 |---|---|---|
@@ -116,7 +112,7 @@
 
 ---
 
-## 🌐 **Languages I Speak**
+## 🌐 **Languages**
 
 - 🇲🇦 **Arabic:** Native
 - 🇫🇷 **French:** Fluent
@@ -137,7 +133,7 @@
 
 ---
 
-## 📬** Let's Connect!**
+## 📫 **Contact Me**
 
 <p align="center">
   <a href="mailto:nissrine.elmniai.23@ump.ac.ma">
@@ -154,9 +150,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-</p>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NissrineElMniai&color=ff69b4&style=flat-square&label=Profile+Visitors" />
@@ -166,11 +160,3 @@
 <p align="center">
   <i>✨ Open to collaboration and exciting opportunities! Let's build something amazing together ✨</i>
 </p>
-
----
-
-<div align="center">
-  
-### 📍 Taourirt, Oriental, Morocco | 📅 Available from July 1st, 2026
-
-</div>
