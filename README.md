@@ -136,15 +136,12 @@ Taourirt, Oriental, Morocco (Open to relocation)
 ## 📫 **Contact Me**
 
 <p align="center">
-  <a href="mailto:nissrine.elmniai.23@ump.ac.ma">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/nissrine-el-mniai-0b3a28296">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/nissrine-elmniai">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <p>
+    - 📧 Email: nissrine.elmniai.23@ump.ac.ma 
+  </p>
+  <p>
+    - 💼 LinkedIn: [Nissrine EL MNIAI](www.linkedin.com/in/nissrine-el-mniai-0b3a28296)  
+  </p>
 </p>
 
 ---
