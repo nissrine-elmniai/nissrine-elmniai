@@ -76,7 +76,7 @@ Taourirt, Oriental, Morocco (Open to relocation)
 
 ## 🚀 **Academic Projects**
 
-### 📱 RhVerse - Mobile Application
+### 📱 RhVerse - Mobile Application [📁 Demo]([https://drive.google.com/your-link](https://drive.google.com/drive/folders/1ZZJ5WV2PhPHOPr17fpSgxMSjMLbQJnw9?usp=drive_link))
 *Team of 4 people*
 - 📋 Mobile app for HR task management
 - 🛠️ **Technologies:** Android Studio, Java, XML, Firebase
