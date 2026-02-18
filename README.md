@@ -56,8 +56,8 @@ Oujda, Oriental, Morocco (Open to relocation)
 
 ## 🏆 **Certifications**
 
-- 🏅 **freeCodeCamp** - Foundational C# with Microsoft
-- 🏅 **freeCodeCamp** - Legacy JavaScript Algorithms and Data Structures
+- 🏅 **freeCodeCamp** - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/nissrine_elmniai/javascript-algorithms-and-data-structures-v8)
+- 🏅 **freeCodeCamp** - [Legacy JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/nissrine_elmniai/javascript-algorithms-and-data-structures-v8)
 
 ---
 
