@@ -11,7 +11,7 @@
 ---
 
 ## 📍 **Location**
-Taourirt, Oriental, Morocco (Open to relocation)
+Oujda, Oriental, Morocco (Open to relocation)
 
 ---
 
