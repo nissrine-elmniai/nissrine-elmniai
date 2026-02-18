@@ -139,9 +139,9 @@ Taourirt, Oriental, Morocco (Open to relocation)
   <p>
     - 📧 Email: nissrine.elmniai.23@ump.ac.ma 
   </p>
-  <a>
-  - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296/)  
-  </a>
+  <p>
+  - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296)  
+  </p>
 </p>
 
 ---
