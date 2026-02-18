@@ -76,7 +76,7 @@ Taourirt, Oriental, Morocco (Open to relocation)
 
 ## 🚀 **Academic Projects**
 
-### 📱 RhVerse - Mobile Application [📁 Demo](https://drive.google.com/drive/folders/1ZZJ5WV2PhPHOPr17fpSgxMSjMLbQJnw9?usp=drive_link)
+### 📱 RhVerse - Mobile Application [📁 Demo](https://drive.google.com/drive/folders/1H80FNTlPmhBCoxb3q_u29MpLzPvqqDVa?usp=drive_link)
 *Team of 4 people*
 - 📋 Mobile app for HR task management
 - 🛠️ **Technologies:** Android Studio, Java, XML, Firebase
@@ -136,13 +136,12 @@ Taourirt, Oriental, Morocco (Open to relocation)
 ## 📫 **Contact Me**
 
 <p align="center">
-  <p>
-    - 📧 Email: nissrine.elmniai.23@ump.ac.ma 
-  </p>
-  <p>
-  - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296)  
-  </p>
-</p>
+  <a href="mailto:nissrine.elmniai.23@ump.ac.ma">
+    <img src="https://img.shields.io/badge/Email-nissrine.elmniai.23%40ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296">
+    <img src="https://img.shields.io/badge/LinkedIn-Nissrine%20EL%20MNIAI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 ---
 
