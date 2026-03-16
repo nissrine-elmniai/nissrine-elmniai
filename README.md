@@ -136,7 +136,7 @@ Oujda, Oriental, Morocco (Open to relocation)
 ## 📫 **Contact Me**
 
 <p align="center">
-  <a href="mailto:nissrine.elmniai.23@ump.ac.ma">
+  <a href="mailto:nissrineelmniai0@com">
     <img src="https://img.shields.io/badge/Email-nissrine.elmniai.23%40ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296">
