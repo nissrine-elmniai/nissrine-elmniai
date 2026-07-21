@@ -137,7 +137,7 @@ Oujda, Oriental, Morocco (Open to relocation)
 
 <p align="center">
   <a href="mailto:nissrineelmniai0@com">
-    <img src="https://img.shields.io/badge/Email-nissrineelmniai%40.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-nissrineelmniai0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296">
     <img src="https://img.shields.io/badge/LinkedIn-Nissrine%20EL%20MNIAI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
