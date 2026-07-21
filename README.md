@@ -2,9 +2,9 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkxaTJycnQ2b3kwNGs3MTRncWo3eWh2bnhkdnZ0dWk0cTJ0MTBuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="coding girl"/>
 
-🎓 **2nd Year Computer Engineering Student** at ENSA Oujda  
+🎓 **Final Year Computer Engineering Student** at ENSA Oujda  
 💻 Passionate about **Full-Stack Development**, **Mobile Apps**, and **Artificial Intelligence**  
-🌸 Open to **internship opportunities** starting **July 1st, 2026** (2 months)
+🌸 Open to **internship opportunities** starting **February 1st, 2027** (4-6 months)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Looking+for+an+internship;Do+you+have+an+opportunity%3F;Available+from+July+2026;Let's+connect!)](https://git.io/typing-svg)
 
@@ -137,7 +137,7 @@ Oujda, Oriental, Morocco (Open to relocation)
 
 <p align="center">
   <a href="mailto:nissrineelmniai0@com">
-    <img src="https://img.shields.io/badge/Email-nissrine.elmniai.23%40ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-nissrineelmniai%40.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nissrine-el-mniai-0b3a28296">
     <img src="https://img.shields.io/badge/LinkedIn-Nissrine%20EL%20MNIAI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
