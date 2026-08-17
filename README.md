@@ -3,8 +3,11 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkxaTJycnQ2b3kwNGs3MTRncWo3eWh2bnhkdnZ0dWk0cTJ0MTBuMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="coding girl"/>
 
 🎓 **Final-year Computer Engineering student**, majoring in Software Engineering & Artificial Intelligence, at **ENSA Oujda**
+
 💻 Passionate about **Full-Stack Development**, **Mobile Development**, **DevOps**, and **Artificial Intelligence**
+
 🔍 Currently looking for a **Final Year Project Internship (PFE)**
+
 🌍 Open to relocation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Looking+for+a+PFE+internship;Full-Stack+%7C+Mobile+%7C+DevOps+%7C+AI;Do+you+have+an+opportunity%3F;Let's+connect!)](https://git.io/typing-svg)
